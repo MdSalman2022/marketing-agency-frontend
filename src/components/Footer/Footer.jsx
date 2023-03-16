@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaFacebook, FaInstagram, FaTwitter } from 'react-icons/fa'
 
-const Footer = () => {
+const Footer = () => { 
   return (
     <div className='bg-secondary'>
       <div className="container mx-auto py-10">
