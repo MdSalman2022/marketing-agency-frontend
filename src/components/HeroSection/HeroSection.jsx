@@ -5,7 +5,7 @@ const HeroSection = () => {
       <div className='container mx-auto'>
         <div className="flex flex-col-reverse items-center md:flex-row md:items-end justify-between py-10">
               <div className=' flex flex-col justify-center items-start gap-5 lg:gap-10 p-5 md:p-0'>
-                  <div className='text-5xl lg:text-8xl font-bold w-full lg:tracking-wider'>
+                  <div className='text-5xl lg:text-8xl font-bold w-full lg:tracking-wide'>
                     <h1>We Take </h1>
                     <h1>Care Of</h1>
                     <h1>Your Brand</h1>
