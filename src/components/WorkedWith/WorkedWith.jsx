@@ -1,6 +1,6 @@
 import React from 'react'
 
-function WorkedWith() {
+function WorkedWith() { 
     return (
         <div className='bg-secondary h-full'>
             <div className='container mx-auto py-10'>
