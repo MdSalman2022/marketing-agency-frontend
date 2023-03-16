@@ -13,19 +13,19 @@ const Header = () => {
             {/* dropdown for mobile start */}
                   <span onClick={()=>setShow(!show)} className='flex md:hidden bg-secondary p-3 rounded-full'><GiHamburgerMenu /></span>
                   <div className={`absolute top-12 ${show ? 'flex' : 'hidden'} md:hidden flex-col items-start gap-3 font-semibold bg-base-100 rounded-xl border border-primary p-3`}>
-                      <span className='hover:underline'>How it works</span>
-                      <span className='hover:underline'>Our Work</span>
-                      <span className='hover:underline'>Pricing</span>
-                      <span className='hover:underline'>About Us</span>
+                      <span className='hover:underline hover:text-primary'>How it works</span>
+                      <span className='hover:underline hover:text-primary'>Our Work</span>
+                      <span className='hover:underline hover:text-primary'>Pricing</span>
+                      <span className='hover:underline hover:text-primary'>About Us</span>
                   </div>
             {/* dropdown for mobile end */}
                   <img className='w-28 md:w-40' src="https://i.ibb.co/DDXD2Ng/Group-2184.png" alt="" />
                 </div>
                 <div className='hidden lg:flex items-center gap-3 font-semibold'>
-                    <span>How it works</span>
-                    <span>Our Work</span>
-                    <span>Pricing</span>
-                    <span>About Us</span>
+                    <span className='cursor-pointer hover:text-primary'>How it works</span>
+                    <span className='cursor-pointer hover:text-primary'>Our Work</span>
+                    <span className='cursor-pointer hover:text-primary'>Pricing</span>
+                    <span className='cursor-pointer hover:text-primary'>About Us</span>
                 </div>
               </div>
               <ul>
