@@ -1,6 +1,6 @@
 import React from 'react'
 
-const FooterBanner = () => {
+const FooterBanner = () => { 
   return (
     <div className='md:py-20 p-5 '>
         <div className="container mx-auto p-10 md:py-10  md:px-20 bg-[#232038] rounded-3xl">
