@@ -1,6 +1,6 @@
 import React from 'react'
 
-const HowItWorks = () => {
+const HowItWorks = () => { 
   return (
       <div className='py-20'>
           <div className="container mx-auto">
