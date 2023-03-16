@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa';
 
-const Journey = () => {
+const Journey = () => { 
   return (
       <div className='bg-primary h-full md:h-96 relative'>
         <img className='h-96' src="https://i.ibb.co/KWbwC3G/Group-584-1.png" alt="" />
