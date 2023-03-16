@@ -17,7 +17,7 @@ const HeroSection = () => {
                   </div>
               </div>
               <div className=''>
-                  <img className='w-full max-w-sm lg:max-w-lg object-cover ' src="https://i.ibb.co/0X596B6/Group-2185-1.png" alt="" />
+                  <img className='w-full max-w-sm lg:max-w-lg object-cover ' src="https://i.ibb.co/G0xSCPx/heroimg.webp" alt="" />
               </div>
         </div>
     </div>
