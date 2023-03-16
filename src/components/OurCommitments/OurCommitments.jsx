@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaArrowRight } from 'react-icons/fa'
 
-const OurCommitments = () => {
+const OurCommitments = () => { 
   return (
       <div className='bg-base-100 py-20'>
           <div className="container mx-auto grid gap-5 md:gap-0 md:grid-cols-2 p-5 md:p-0">
