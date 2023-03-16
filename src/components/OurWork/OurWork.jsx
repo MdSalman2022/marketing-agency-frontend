@@ -1,6 +1,6 @@
 import React from 'react'
 
-const OurWork = () => {
+const OurWork = () => { 
   return (
       <div>
           <div className="container mx-auto text-center space-y-10">
