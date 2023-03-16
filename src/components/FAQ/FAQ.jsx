@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { FaArrowRight, FaMinus, FaPlus } from 'react-icons/fa'
 
-const FAQ = () => {
+const FAQ = () => { 
 
     const [accordionOne, setAccordionOne] = useState(false)
     const [accordionTwo, setAccordionTwo] = useState('')
