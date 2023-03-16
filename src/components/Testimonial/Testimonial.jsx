@@ -1,7 +1,7 @@
 import React from 'react'
 import { FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 
-const Testimonial = () => {
+const Testimonial = () => { 
   return (
       <div>
           <div className="container mx-auto space-y-10">
